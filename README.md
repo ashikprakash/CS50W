@@ -3,5 +3,4 @@
 
 # Project0
 ![alt text](https://github.com/Mvrs/CS50W/blob/master/project0-screenshots/homeLandScape.png)
-``
 ![alt_text](https://github.com/Mvrs/CS50W/blob/master/project0-screenshots/constructionHome.png)
